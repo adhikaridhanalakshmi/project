@@ -1,0 +1,22 @@
+.chart-container{
+    width :450px !important;
+    height: 250px !important;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    margin: 150px 0px 0px 650px;
+}
+#linechart{
+    width: 170px !important;
+    height: 200px !important;
+}
+.milkpacking{
+    font-size: 20px;
+    font-family: serif;
+    background-color: black;
+    color:#fff
+}
+.milkpacking i{
+    margin-left: 110px;
+    cursor: pointer;
+}
